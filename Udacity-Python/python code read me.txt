@@ -1,0 +1,18 @@
+Python files (alphabetically)
+
+audit street names used to check street types in unprocessed OSM file
+
+helper functions used to assist with main function (xml to csv)
+
+iterative parsing used to count number of tag types (node, way, relation, etc)
+
+sample osm used to generate sample of larger OSM file
+
+tag types used to generate counts of tag type categories
+
+xml to csv prep contains shape_element function updated to correct postal codes and street names 
+
+xml to csv is main function that converts python dictionaries output by 'xml to csv prep' into CSV files
+
+
+
