@@ -1,3 +1,5 @@
+Python code to parse XML elements from open street map data for Seattle metropolitan area
+
 Python files (alphabetically)
 
 audit street names used to check street types in unprocessed OSM file
